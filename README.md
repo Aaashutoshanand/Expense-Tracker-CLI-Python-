@@ -31,7 +31,6 @@ expense-tracker/
 ├── expense_tracker.py
 ├── expenses.csv
 ├── README.md
-├── .gitignore
 ```
 
 ---
