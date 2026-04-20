@@ -38,7 +38,7 @@ expense-tracker/
 ## ▶️ How to Run
 
 ```bash
-python expense_tracker.py
+python task2.py
 ```
 
 ---
