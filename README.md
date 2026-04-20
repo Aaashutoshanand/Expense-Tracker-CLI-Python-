@@ -74,4 +74,28 @@ python task2.py
 
 ## 👨‍💻 Author
 
-Python Internship Project – Task 2
+Ashutosh anand
+
+---
+
+## 📬 Contact
+
+* GitHub: https://github.com/Aaashutoshanand
+* Email: [hshevsyhe@gmail.com](mailto:hshevsyhe@gmail.com)
+* Linkdin Post: https://www.linkedin.com/feed/update/urn:li:activity:7447232186811854848/
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+* ⭐ Star the repo
+* 🍴 Fork it
+* 📢 Share it
+
+---
+
+<p align="center">
+  Made with ❤️ using Python
+</p>
