@@ -28,7 +28,7 @@ This project allows users to add, view, and calculate expenses using a CSV file.
 ```
 expense-tracker/
 │
-├── expense_tracker.py
+├── task2.py
 ├── expenses.csv
 ├── README.md
 ```
