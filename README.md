@@ -82,7 +82,6 @@ Ashutosh anand
 
 * GitHub: https://github.com/Aaashutoshanand
 * Email: [hshevsyhe@gmail.com](mailto:hshevsyhe@gmail.com)
-* Linkdin Post: https://www.linkedin.com/feed/update/urn:li:activity:7447232186811854848/
 
 ---
 
